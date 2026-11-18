@@ -68,7 +68,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Orneyfish&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Orneyfish&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orneyfish&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
 
