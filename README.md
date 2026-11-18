@@ -5,7 +5,7 @@
 **Lead AI Engineer** · Bangalore, India · [anurag-sarkar.vercel.app](https://anurag-sarkar.vercel.app)
 
 <a href="https://github.com/Orneyfish">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Linux+desktop+tools+in+Rust+%26+C%2B%2B;AI+agent+tooling+for+Claude+Code;NLP+%26+LLM+tinkerer;Running+CachyOS+%2B+Hyprland" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Lead+AI+Engineer;Linux+desktop+tools+in+Rust+%26+C%2B%2B;AI+agent+tooling+for+Claude+Code;NLP+%26+LLM+tinkerer;Running+CachyOS+%2B+Hyprland" alt="Typing intro" />
 </a>
 
 <a href="https://github.com/Orneyfish?tab=followers"><img src="https://img.shields.io/github/followers/Orneyfish?style=flat-square&label=followers&color=4c8eda" alt="Followers" /></a>
